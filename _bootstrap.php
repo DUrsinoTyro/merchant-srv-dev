@@ -19,8 +19,8 @@
 error_reporting('all');
 
 // pull environment vars
-$merchantId = 'TYRO_318';
-$password = 'e627bccdeba510cd6be5f0745c3f7091';
+$merchantId = 'TYRO_440';
+$password = '1488d33bbbcd25d5ca0ca491aa14b9dd';
 $apiVersion = '54';
 
 
